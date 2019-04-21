@@ -1,0 +1,68 @@
+{
+  "id": "7db9c24c-7411-491c-905b-277c19517e75",
+  "name": "bars backbone green dot running left to right",
+  "noteValue": 32,
+  "noteCount": 32,
+  "subScenes": [
+    {
+      "at": [
+        0
+      ],
+      "deviceParams": [
+        {
+          "group": null,
+          "device": "36bf7b23-f57d-4bf3-8963-e4b801a76b31",
+          "params": [],
+          "animation": "6fb6b41c-93d9-4eb2-910b-0208a6a194a9",
+          "transition": null
+        }
+      ],
+      "preset": null
+    },
+    {
+      "at": [
+        8
+      ],
+      "deviceParams": [
+        {
+          "group": null,
+          "device": "ca73a364-d6b8-496a-9540-9b06f9d7de24",
+          "params": [],
+          "animation": "6fb6b41c-93d9-4eb2-910b-0208a6a194a9",
+          "transition": null
+        }
+      ],
+      "preset": null
+    },
+    {
+      "at": [
+        16
+      ],
+      "deviceParams": [
+        {
+          "group": null,
+          "device": "70af97b4-b4e4-4b9c-bff2-a452954a301d",
+          "params": [],
+          "animation": "6fb6b41c-93d9-4eb2-910b-0208a6a194a9",
+          "transition": null
+        }
+      ],
+      "preset": null
+    },
+    {
+      "at": [
+        24
+      ],
+      "deviceParams": [
+        {
+          "group": null,
+          "device": "28aa5a87-25ff-4f83-8edf-1e802dc46688",
+          "params": [],
+          "animation": "6fb6b41c-93d9-4eb2-910b-0208a6a194a9",
+          "transition": null
+        }
+      ],
+      "preset": null
+    }
+  ]
+}
