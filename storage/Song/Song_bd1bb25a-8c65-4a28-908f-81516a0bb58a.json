@@ -1,1 +1,1 @@
-{"id":"bd1bb25a-8c65-4a28-908f-81516a0bb58a","name":"Test","barChanges":[{"noteValue":4,"noteCount":4,"speed":240,"at":0}],"dmxScenes":[{"id":"94c12068-5bf4-4ebb-aab5-1858d33ec40a","at":64,"repeat":7}],"midiCommands":[]}
+{"id":"bd1bb25a-8c65-4a28-908f-81516a0bb58a","name":"Test","barChanges":[{"noteValue":4,"noteCount":4,"speed":240,"at":0}],"dmxScenes":[{"id":"94c12068-5bf4-4ebb-aab5-1858d33ec40a","at":64,"repeat":7},{"id":"2c240fcc-69e8-455b-8b70-df5e84e34efd","at":0,"repeat":0}],"midiCommands":[]}
