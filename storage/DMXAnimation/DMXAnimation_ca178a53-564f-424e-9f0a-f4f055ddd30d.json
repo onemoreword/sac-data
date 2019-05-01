@@ -1,6 +1,6 @@
 {
   "id": "ca178a53-564f-424e-9f0a-f4f055ddd30d",
-  "name": "exploding white to purple dot 8 frames",
+  "name": "exploding white to Purple dot 8 frames",
   "frames": [
     {
       "at": 0,
@@ -327,7 +327,7 @@
       "params": {
         "ledAll": false,
         "led": 7,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -347,7 +347,7 @@
       "params": {
         "ledAll": false,
         "led": 8,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -407,7 +407,7 @@
       "params": {
         "ledAll": false,
         "led": 6,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -427,7 +427,7 @@
       "params": {
         "ledAll": false,
         "led": 9,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -487,7 +487,7 @@
       "params": {
         "ledAll": false,
         "led": 5,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -507,7 +507,7 @@
       "params": {
         "ledAll": false,
         "led": 10,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -567,7 +567,7 @@
       "params": {
         "ledAll": false,
         "led": 4,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -587,7 +587,7 @@
       "params": {
         "ledAll": false,
         "led": 11,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -647,7 +647,7 @@
       "params": {
         "ledAll": false,
         "led": 3,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -667,7 +667,7 @@
       "params": {
         "ledAll": false,
         "led": 12,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -727,7 +727,7 @@
       "params": {
         "ledAll": false,
         "led": 2,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -747,7 +747,7 @@
       "params": {
         "ledAll": false,
         "led": 13,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -787,7 +787,7 @@
       "params": {
         "ledAll": false,
         "led": 0,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -807,7 +807,7 @@
       "params": {
         "ledAll": false,
         "led": 1,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -827,7 +827,7 @@
       "params": {
         "ledAll": false,
         "led": 14,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
@@ -847,7 +847,7 @@
       "params": {
         "ledAll": false,
         "led": 15,
-        "$color": "purple",
+        "$color": "Purple",
         "red": null,
         "green": null,
         "blue": null,
