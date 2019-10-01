@@ -1,1 +1,12 @@
-{"id":"67770a31-a25a-49d7-b79f-40c60bd01adf","name":"drums par left","typeId":"819b4181-62a2-4b76-99c7-7f6eb4694960","universe":4,"startChannel":0,"tags":["drums","left","par"]}
+{
+  "id": "67770a31-a25a-49d7-b79f-40c60bd01adf",
+  "name": "drums par left",
+  "typeId": "819b4181-62a2-4b76-99c7-7f6eb4694960",
+  "universe": 4,
+  "startChannel": 0,
+  "tags": [
+    "drums",
+    "left",
+    "par"
+  ]
+}

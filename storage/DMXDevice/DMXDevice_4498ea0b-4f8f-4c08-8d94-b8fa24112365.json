@@ -1,1 +1,14 @@
-{"id":"4498ea0b-4f8f-4c08-8d94-b8fa24112365","name":"Moving Head Matrix Right Front","typeId":"52d1e929-ae62-4167-bbbf-f00c3f50f0b5","universe":1,"startChannel":100,"tags":["moving","matrix9","right","front","strobe"]}
+{
+  "id": "4498ea0b-4f8f-4c08-8d94-b8fa24112365",
+  "name": "Moving Head Matrix Right Front",
+  "typeId": "52d1e929-ae62-4167-bbbf-f00c3f50f0b5",
+  "universe": 1,
+  "startChannel": 100,
+  "tags": [
+    "moving",
+    "matrix9",
+    "right",
+    "front",
+    "strobe"
+  ]
+}

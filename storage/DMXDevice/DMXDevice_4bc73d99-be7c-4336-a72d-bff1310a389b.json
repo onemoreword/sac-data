@@ -1,1 +1,14 @@
-{"id":"4bc73d99-be7c-4336-a72d-bff1310a389b","name":"Moving Head Matrix Left Back","typeId":"52d1e929-ae62-4167-bbbf-f00c3f50f0b5","universe":0,"startChannel":0,"tags":["moving","matrix9","left","back","strobe"]}
+{
+  "id": "4bc73d99-be7c-4336-a72d-bff1310a389b",
+  "name": "Moving Head Matrix Left Back",
+  "typeId": "52d1e929-ae62-4167-bbbf-f00c3f50f0b5",
+  "universe": 0,
+  "startChannel": 0,
+  "tags": [
+    "moving",
+    "matrix9",
+    "left",
+    "back",
+    "strobe"
+  ]
+}

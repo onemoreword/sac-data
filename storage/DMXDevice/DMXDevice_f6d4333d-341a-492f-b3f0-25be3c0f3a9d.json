@@ -1,1 +1,15 @@
-{"id":"f6d4333d-341a-492f-b3f0-25be3c0f3a9d","name":"PAR8 Flying towards Stage right outer","typeId":"819b4181-62a2-4b76-99c7-7f6eb4694960","universe":7,"startChannel":0,"tags":["flying","left","outer","par","rgbw","strobe"]}
+{
+  "id": "f6d4333d-341a-492f-b3f0-25be3c0f3a9d",
+  "name": "PAR8 Flying towards Stage right outer",
+  "typeId": "819b4181-62a2-4b76-99c7-7f6eb4694960",
+  "universe": 7,
+  "startChannel": 0,
+  "tags": [
+    "flying",
+    "left",
+    "outer",
+    "par",
+    "rgbw",
+    "strobe"
+  ]
+}

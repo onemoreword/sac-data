@@ -1,1 +1,12 @@
-{"id":"b1d0405f-f456-464b-86db-080fc4a8d653","name":"bar front WOLLE","typeId":"3e88cf33-37d1-4df8-9ad6-046dd66f0324","universe":5,"startChannel":20,"tags":["bar6","front","member"]}
+{
+  "id": "b1d0405f-f456-464b-86db-080fc4a8d653",
+  "name": "bar front WOLLE",
+  "typeId": "3e88cf33-37d1-4df8-9ad6-046dd66f0324",
+  "universe": 5,
+  "startChannel": 20,
+  "tags": [
+    "bar6",
+    "front",
+    "member"
+  ]
+}

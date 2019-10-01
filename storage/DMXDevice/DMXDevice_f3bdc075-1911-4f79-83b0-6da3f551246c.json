@@ -1,1 +1,14 @@
-{"id":"f3bdc075-1911-4f79-83b0-6da3f551246c","name":"Moving Head Matrix Left Front","typeId":"52d1e929-ae62-4167-bbbf-f00c3f50f0b5","universe":0,"startChannel":50,"tags":["moving","strobe","matrix9","front","left"]}
+{
+  "id": "f3bdc075-1911-4f79-83b0-6da3f551246c",
+  "name": "Moving Head Matrix Left Front",
+  "typeId": "52d1e929-ae62-4167-bbbf-f00c3f50f0b5",
+  "universe": 0,
+  "startChannel": 50,
+  "tags": [
+    "moving",
+    "strobe",
+    "matrix9",
+    "front",
+    "left"
+  ]
+}

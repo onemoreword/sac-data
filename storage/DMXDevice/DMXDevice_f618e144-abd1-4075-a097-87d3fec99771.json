@@ -1,1 +1,15 @@
-{"id":"f618e144-abd1-4075-a097-87d3fec99771","name":"PAR8 Flying towards Stage center","typeId":"819b4181-62a2-4b76-99c7-7f6eb4694960","universe":7,"startChannel":10,"tags":["flying","left","outer","par","rgbw","strobe"]}
+{
+  "id": "f618e144-abd1-4075-a097-87d3fec99771",
+  "name": "PAR8 Flying towards Stage center",
+  "typeId": "819b4181-62a2-4b76-99c7-7f6eb4694960",
+  "universe": 7,
+  "startChannel": 10,
+  "tags": [
+    "flying",
+    "left",
+    "outer",
+    "par",
+    "rgbw",
+    "strobe"
+  ]
+}
